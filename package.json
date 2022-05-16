@@ -1,0 +1,16 @@
+{
+  "name": "muxic",
+  "version": "1.0.0",
+  "description": "A music player made with electronjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashwot Acharya",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.2.2",
+    "express": "^4.18.1"
+  }
+}
